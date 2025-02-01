@@ -1,0 +1,21 @@
+{
+  "name": "plainpath",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahmb0/PlainPath.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rahmb0/PlainPath/issues"
+  },
+  "homepage": "https://github.com/Rahmb0/PlainPath#readme",
+  "description": ""
+}
